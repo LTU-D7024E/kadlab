@@ -46,7 +46,7 @@ There are also further requirements that must be considered and delimitations we
 
 ### Mandatory
 **M1**: *Network formation*. **[5p]**. 
-Your nodes must be able to form networks as described in the [Kademlia paper](https://github.com/LTU-D7024E/kadlab/blob/main/kademlia_description.pdf)[^1]. Kademlia is a protocol for facilitating *[Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)* (DHTs). Concretely, the following aspects of the algorithm must be implemented:
+Your nodes must be able to form networks as described in the [Kademlia paper](https://github.com/LTU-D7024E/kadlab/blob/main/kademlia-description.pdf)[^1]. Kademlia is a protocol for facilitating *[Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)* (DHTs). Concretely, the following aspects of the algorithm must be implemented:
 1. **Pinging**: This means that you must implement and use the `PING` message.
 2. **Network joining**: Given the IP address and any other data you decide, any single node must be able to join or form a network with the other node.
 3. **Node lookup**: When part of a network, each node must be able to retrieve the contact information of any other node in the same network.
