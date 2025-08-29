@@ -1,3 +1,8 @@
+# DEPRECATED
+
+**NOTE: This repo has been moved to [https://github.com/eislab-cps/d7024e]()** and may be deleted in the future.
+
+
 # D7024E Lab Assignment: Creating a Peer-to-Peer Distributed Data Store
 This repository contains information that outlines the lab element in the D7024E ([Mobile and Distributed Computing Systems](https://www.ltu.se/en/education/syllabuses/course-syllabus?id=D7024E)) course at [Luleå Technical University](https://www.ltu.se/).
 
