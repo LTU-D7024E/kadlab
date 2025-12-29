@@ -1,6 +1,6 @@
 # DEPRECATED
 
-**NOTE: This repo has been moved to [https://github.com/eislab-cps/d7024e]()** and may be deleted in the future.
+**NOTE: This repo has been moved to [https://github.com/eislab-cps/d7024e](https://github.com/eislab-cps/d7024e)** and may be deleted in the future.
 
 
 # D7024E Lab Assignment: Creating a Peer-to-Peer Distributed Data Store
